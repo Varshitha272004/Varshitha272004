@@ -1,38 +1,35 @@
-
 <div align="center">
 
-# Hi there 👋, I'm Varshitha N
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Varshitha N
 
-### Python Full Stack Developer | AI & Machine Learning Enthusiast | Final Year CSBS Student
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Final+Year+CSBS+Student;Always+Learning+New+Technologies;Building+Real-World+Projects" />
 
-<p>
-Passionate about building scalable web applications, AI-powered solutions, and real-world software that solves practical problems.
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Varshitha272004&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Varshitha272004&label=Profile+Views&color=6C63FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 💜 About Me
 
-🎓 Final Year B.E. in Computer Science & Business Systems
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🏫 Dr. Ambedkar Institute of Technology, Bengaluru
+🎓 Final Year **Computer Science & Business Systems** Student
 
 💻 Python Full Stack Developer
 
 🤖 AI & Machine Learning Enthusiast
 
-🌱 Currently learning
+🚀 Passionate about building real-world software solutions
+
+🌱 Currently Learning
 
 - Generative AI
 - Large Language Models (LLMs)
 - Cloud Deployment
 - Advanced Backend Development
 
-🎯 Interested in
+💡 Interested In
 
 - Artificial Intelligence
 - Machine Learning
@@ -44,7 +41,7 @@ Passionate about building scalable web applications, AI-powered solutions, and r
 
 # 🚀 Tech Stack
 
-### Programming Languages
+### 👨‍💻 Languages
 
 <p>
 
@@ -52,15 +49,15 @@ Passionate about building scalable web applications, AI-powered solutions, and r
 
 </p>
 
-### Frontend & Frameworks
+### 🌐 Frameworks
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,bootstrap,streamlit"/>
 
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
 
@@ -70,15 +67,21 @@ Passionate about building scalable web applications, AI-powered solutions, and r
 
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / ML
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- NLTK
-- YOLOv8
+<p>
 
-### Tools
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-red?style=for-the-badge"/>
+
+</p>
+
+### ⚙️ Tools
 
 <p>
 
@@ -86,117 +89,85 @@ Passionate about building scalable web applications, AI-powered solutions, and r
 
 </p>
 
-Power BI • Tableau • Jupyter Notebook • Postman
+Power BI • Tableau • Postman • Jupyter Notebook
 
 ---
 
-# 💼 Featured Projects
+# 🌟 Featured Projects
 
 ## 🛒 RetailManager Suite (POS)
 
-AI-powered Point of Sale and Retail Management System
+💻 Flask • Supabase • PostgreSQL • AI Assistant
 
-**Tech Stack**
+✅ Inventory Management
 
-- Flask
-- Supabase
-- PostgreSQL
-- AI Assistant
-- Bootstrap
+✅ Procurement System
 
-✔ Inventory Management
+✅ Billing System
 
-✔ Procurement System
-
-✔ Billing System
-
-✔ AI Business Analytics
+✅ AI Business Analytics
 
 ---
 
 ## 🎵 Mood-Based Music Recommendation System
 
-An intelligent recommendation system that suggests songs based on user mood.
+💻 Python • Streamlit • Machine Learning
 
-**Tech Stack**
+✅ Mood-Based Recommendations
 
-- Python
-- Streamlit
-- Scikit-Learn
-- Pandas
-- NumPy
-- Kaggle Dataset
+✅ Personalized Song Suggestions
 
-✔ Mood-Based Recommendation
+✅ Kaggle Dataset
 
-✔ Personalized Suggestions
-
-✔ Interactive Web Interface
+✅ Interactive Web Interface
 
 ---
 
 ## 🏥 Hospital Management System
 
-Complete hospital management solution.
+💻 Flask • MySQL
 
-**Tech Stack**
+✅ Appointment Booking
 
-- Flask
-- MySQL
+✅ Billing
 
-✔ Appointment Booking
+✅ Medical Records
 
-✔ Billing
-
-✔ Medical Records
-
-✔ Admin Dashboard
+✅ Admin Dashboard
 
 ---
 
 ## 🛍️ E-Commerce Web Application
 
-Online shopping platform with payment integration.
+💻 Flask • MySQL • Razorpay
 
-**Tech Stack**
+✅ Shopping Cart
 
-- Flask
-- MySQL
-- Razorpay
+✅ Payment Gateway
 
-✔ Shopping Cart
+✅ Order Tracking
 
-✔ Payment Gateway
-
-✔ Order Tracking
-
-✔ Admin Panel
+✅ Refund Management
 
 ---
 
 ## 🚦 Traffic Sign Detection
 
-Real-time traffic sign detection using Computer Vision.
+💻 Python • YOLOv8
 
-**Tech Stack**
+✅ Real-Time Detection
 
-- YOLOv8
-- OpenCV
-- Python
-
-✔ Real-Time Detection
-
-✔ Voice Alerts
+✅ Voice Alerts
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Varshitha272004&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Varshitha272004&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha272004&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha272004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -206,17 +177,27 @@ Real-time traffic sign detection using Computer Vision.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Varshitha272004&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Varshitha272004&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Varshitha272004&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Varshitha272004&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha272004&theme=tokyo-night"/>
 
 </p>
 
@@ -224,17 +205,21 @@ Real-time traffic sign detection using Computer Vision.
 
 # 🌱 Currently Exploring
 
-- Generative AI
-- LLM Applications
-- AI Agents
-- Cloud Computing
-- Scalable Backend Systems
+✨ Generative AI
+
+✨ AI Agents
+
+✨ Cloud Computing
+
+✨ Machine Learning
+
+✨ Scalable Backend Systems
 
 ---
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/Varshitha272004">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -244,76 +229,32 @@ Real-time traffic sign detection using Computer Vision.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
 # 💡 Quote
 
-> *"I enjoy building technology that solves real-world problems through software, AI, and continuous learning."*
+<div align="center">
+
+### *"Code with purpose. Learn continuously. Build solutions that create impact."*
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-If you like my projects, consider giving them a ⭐.
+If you enjoy my projects, consider ⭐ starring them.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 
 </div>
-```
-
----
-
-# 🚀 Make Your GitHub Stand Out Even More
-
-To give your profile a polished, recruiter-friendly look:
-
-### 1. Create a Professional Banner
-
-A banner (1500×500 px) with:
-
-* Your name: **Varshitha N**
-* **Python Full Stack Developer**
-* **AI & Machine Learning Enthusiast**
-* Icons for Python, Flask, Streamlit, AI, GitHub
-
-### 2. Pin These Repositories
-
-* 🛒 RetailManager Suite (POS)
-* 🎵 Music Recommendation System
-* 🏥 Hospital Management System
-* 🛍️ E-Commerce Web Application
-* 🚦 Traffic Sign Detection
-* 📚 Smart Assignment & Internship Management System (or your next strongest project)
-
-### 3. Improve Every Repository
-
-Each project should include:
-
-* Project overview
-* Features
-* Tech stack
-* Installation guide
-* Screenshots
-* Future enhancements
-* License
-
-### 4. Add Repository Topics
-
-Use GitHub topics such as:
-
-```
-python
-flask
-streamlit
-machine-learning
-artificial-intelligence
-supabase
-mysql
-computer-vision
-full-stack
-recommendation-system
-```
 
 

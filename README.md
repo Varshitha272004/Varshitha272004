@@ -213,6 +213,3 @@ Point-of-sale application for inventory, billing, and customer records, with aut
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
-
-
-

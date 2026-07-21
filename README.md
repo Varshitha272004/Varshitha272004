@@ -1,8 +1,4 @@
-Awesome! Since you're looking for internships and placements, I'd build your GitHub profile like a professional software engineer's profile rather than a student's. Based on your GitHub and the projects we've worked on together, here's a polished profile README.
 
-> **Create a repository named exactly `Varshitha272004` and paste this into its `README.md`.**
-
-```markdown
 <div align="center">
 
 # Hi there 👋, I'm Varshitha N

@@ -1,10 +1,12 @@
+# Hi 👋, I'm Varshitha N
+
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Varshitha N
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Python+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Final+Year+CSBS+Student;Building+Practical+Software+Solutions" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Final+Year+CSBS+Student;Always+Learning+New+Technologies;Building+Real-World+Projects" />
+![Profile Views](https://komarev.com/ghpvc/?username=Varshitha272004&style=for-the-badge&color=blueviolet)
 
-<img src="https://komarev.com/ghpvc/?username=Varshitha272004&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+### Python Full Stack Developer • AI & Machine Learning Enthusiast • Final Year CSBS Student
 
 </div>
 
@@ -12,249 +14,115 @@
 
 # 💜 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+🎓 Final Year **B.E. Computer Science & Business Systems**
 
-🎓 Final Year **Computer Science & Business Systems** Student
+💻 Passionate about **Python Full Stack Development, AI, Machine Learning and Backend Engineering**
 
-💻 Python Full Stack Developer
+🚀 I enjoy building practical applications that solve real-world problems.
 
-🤖 AI & Machine Learning Enthusiast
-
-🚀 Passionate about building real-world software solutions
-
-🌱 Currently Learning
-
+🌱 **Currently Learning**
 - Generative AI
 - Large Language Models (LLMs)
+- FastAPI & Advanced Backend
 - Cloud Deployment
-- Advanced Backend Development
-
-💡 Interested In
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Backend Engineering
-- Data Analytics
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-
+### Languages
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
 </p>
 
-### 🌐 Frameworks
-
+### Frameworks
 <p>
-
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi,bootstrap,streamlit"/>
-
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-### 🗄️ Database
-
+### Database
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
 </p>
 
-### 🤖 AI / ML
-
+### Tools
 <p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/YOLOv8-red?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
 </p>
 
-### ⚙️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
-
-</p>
-
-Power BI • Tableau • Postman • Jupyter Notebook
+Power BI • Tableau • Jupyter Notebook • Postman
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🛒 RetailManager Suite (POS)
-
-💻 Flask • Supabase • PostgreSQL • AI Assistant
-
-✅ Inventory Management
-
-✅ Procurement System
-
-✅ Billing System
-
-✅ AI Business Analytics
+| Project | Description |
+|---------|-------------|
+| 🛒 RetailManager Suite | AI-powered POS, inventory, procurement and analytics using Flask & Supabase |
+| 🎵 Music Recommendation System | Mood-based recommendation engine built with Python, Streamlit & Scikit-learn |
+| 🏥 Hospital Management System | Flask & MySQL application with appointments, billing and medical records |
+| 🛍️ E-Commerce Web Application | Flask-based online shopping platform with payment integration |
+| 🚦 Traffic Sign Detection | Real-time traffic sign recognition using YOLO |
 
 ---
 
-## 🎵 Mood-Based Music Recommendation System
-
-💻 Python • Streamlit • Machine Learning
-
-✅ Mood-Based Recommendations
-
-✅ Personalized Song Suggestions
-
-✅ Kaggle Dataset
-
-✅ Interactive Web Interface
-
----
-
-## 🏥 Hospital Management System
-
-💻 Flask • MySQL
-
-✅ Appointment Booking
-
-✅ Billing
-
-✅ Medical Records
-
-✅ Admin Dashboard
-
----
-
-## 🛍️ E-Commerce Web Application
-
-💻 Flask • MySQL • Razorpay
-
-✅ Shopping Cart
-
-✅ Payment Gateway
-
-✅ Order Tracking
-
-✅ Refund Management
-
----
-
-## 🚦 Traffic Sign Detection
-
-💻 Python • YOLOv8
-
-✅ Real-Time Detection
-
-✅ Voice Alerts
-
----
-
-# 📈 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Varshitha272004&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha272004&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Varshitha272004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshitha272004&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Varshitha272004&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Varshitha272004&theme=algolia&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Varshitha272004&theme=algolia&column=4&margin-w=15"/>
 </p>
 
----
-
-# 📊 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshitha272004&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Current Focus
 
-✨ Generative AI
-
-✨ AI Agents
-
-✨ Cloud Computing
-
-✨ Machine Learning
-
-✨ Scalable Backend Systems
+- 🤖 AI & Machine Learning
+- ⚡ Python Backend Development
+- ☁️ Cloud Deployment
+- 📊 Data Analytics
+- 🚀 Open Source Contributions
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Varshitha272004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="http://www.linkedin.com/in/varshitha-n-5338392b4">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+<a href="https://github.com/Varshitha272004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="http://www.linkedin.com/in/varshitha-n-5338392b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
 
 # 💡 Quote
 
-<div align="center">
-
-### *"Code with purpose. Learn continuously. Build solutions that create impact."*
-
-</div>
+> *"Learning never stops. Every project is an opportunity to build something better."*
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## ⭐ Thank you for visiting my profile!
 
-If you enjoy my projects, consider ⭐ starring them.
+If you like my work, consider starring my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 </div>
+
 
 
